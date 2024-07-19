@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"moduleResolution": "NodeNext",
+		"lib": ["ESNext"],
+		"module": "commonjs",
+		"sourceMap": true,
+		"outDir": "./dist",
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true /* Disallow inconsistently-cased references to the same file. */
+	}
+}
